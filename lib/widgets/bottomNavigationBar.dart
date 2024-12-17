@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:p_cf/screens/page/gift/gift_home.dart';
-import 'package:p_cf/screens/page/homepage.dart';
-import 'package:p_cf/screens/page/menu/menu.dart';
-import 'package:p_cf/screens/page/promotion/promotion_screen.dart';
+import 'package:p_cf/view/page/gift/gift_home.dart';
+import 'package:p_cf/view/page/homepage.dart';
+import 'package:p_cf/view/page/menu/menu.dart';
+import 'package:p_cf/view/page/promotion/promotion_screen.dart';
 
-import 'package:p_cf/screens/page/account/profile.dart';
+import 'package:p_cf/view/page/account/profile.dart';
 
 class CustomBottomNavigationBar extends StatelessWidget {
   final int currentIndex;

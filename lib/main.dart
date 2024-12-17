@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:p_cf/athu/shared_preferences.dart';
-import 'package:p_cf/database/seed_data.dart';
-import 'package:p_cf/screens/page/homepage.dart';
-import 'package:p_cf/screens/start/signin.dart';
-import 'package:p_cf/screens/start/welcome.dart';
+import 'package:p_cf/model/seed_data.dart';
+import 'package:p_cf/view/page/homepage.dart';
+import 'package:p_cf/view/start/signin.dart';
+import 'package:p_cf/view/start/welcome.dart';
 
 import 'package:path/path.dart';
 import 'package:shared_preferences/shared_preferences.dart';

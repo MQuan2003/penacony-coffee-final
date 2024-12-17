@@ -1,4 +1,4 @@
-import 'package:p_cf/database/repository/user_repository.dart';
+import 'package:p_cf/controller/user_repository.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class AuthService {
